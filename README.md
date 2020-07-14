@@ -1,1 +1,1 @@
-# spicee
+# SpiceUp
